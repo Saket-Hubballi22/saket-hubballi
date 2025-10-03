@@ -14,5 +14,5 @@
 - Coding Practice (Java DSA problems)  
 
 ## 📫 Connect with Me
-- [LinkedIn](your-link-here)  
+- [LinkedIn](https://www.linkedin.com/in/saket-hubballi22/)  
 - Email: sakethubballi440@gmail.com  
